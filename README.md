@@ -5,7 +5,7 @@ This project demonstrates predicting **Acute Myocardial Infarction (AMI)** risk 
 > de Capretz, P.O., Björkelund, A., Björk, J. et al. Machine learning for early prediction of acute myocardial infarction or death in acute chest pain patients using electrocardiogram and blood tests at presentation. BMC Med Inform Decis Mak 23, 25 (2023). https://doi.org/10.1186/s12911-023-02119-1
 
 **Dataset:**  
-We used the **PTB-XL ECG dataset**, publicly available on PhysioNet:  
+I used the **PTB-XL ECG dataset**, publicly available on PhysioNet:  
 [https://physionet.org/content/ptb-xl/1.0.1/](https://physionet.org/content/ptb-xl/1.0.1/)
 
 **Workflow:**  
